@@ -1,4 +1,4 @@
-### Hi, I'm Afang (阿方)
+### Hi, I'm AFang (阿方)
 
 I build small AI tools for people who make things — Agent Skills, macOS apps, and the occasional script that saves an afternoon. Then I explain them to ~120k followers across Chinese video platforms.
 
