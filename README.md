@@ -8,7 +8,7 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 | | |
 |---|---|
-| [**chatcut-to-fcpxml**](https://github.com/AFangTeam/chatcut-to-fcpxml) | **ChatCut → Final Cut Pro.** Hands a ChatCut timeline off to FCP as an editable FCPXML project — frame-exact cuts, keyframed zooms and iTT captions intact. An Agent Skill for Claude Code and Codex. |
+| [**chatcut-to-fcpxml**](https://github.com/AFangTeam/chatcut-to-fcpxml) | **ChatCut → Final Cut Pro.** Hands a ChatCut timeline off to FCP as an editable FCPXML project — frame-exact cuts, keyframed zooms and iTT captions intact. An Agent Skill for Claude Code and Codex. <br>[▶ Walkthrough](https://www.bilibili.com/video/BV17M8P6EEgD/) |
 
 **Find me**
 
@@ -31,4 +31,4 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 | | |
 |---|---|
-| [**chatcut-to-fcpxml**](https://github.com/AFangTeam/chatcut-to-fcpxml) | **ChatCut → Final Cut Pro。** 把 ChatCut 时间线帧级精确地交接给 Final Cut Pro，关键帧推镜和 iTT 字幕都不丢。Claude Code 和 Codex 都能用的 Agent Skill。 |
+| [**chatcut-to-fcpxml**](https://github.com/AFangTeam/chatcut-to-fcpxml) | **ChatCut → Final Cut Pro。** 把 ChatCut 时间线帧级精确地交接给 Final Cut Pro，关键帧推镜和 iTT 字幕都不丢。Claude Code 和 Codex 都能用的 Agent Skill。 <br>[▶ 演示视频](https://www.bilibili.com/video/BV17M8P6EEgD/) |
