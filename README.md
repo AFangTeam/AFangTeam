@@ -1,6 +1,6 @@
 ### Hi, I'm Afang (阿方)
 
-I build small AI tools for people who make things — Claude Agent Skills, macOS apps, and the occasional script that saves an afternoon. Then I explain them to ~120k followers across Chinese video platforms.
+I build small AI tools for people who make things — Agent Skills, macOS apps, and the occasional script that saves an afternoon. Then I explain them to ~120k followers across Chinese video platforms.
 
 Most of what I publish here came out of doing the actual job first. If a repo documents a trap, it's because I fell into it.
 
@@ -23,7 +23,7 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 ### 你好，我是阿方
 
-我做给创作者用的 AI 小工具 —— Claude Agent Skills、macOS app，还有一些能省下一下午的小脚本，然后把它们讲给各平台上大约 12 万关注我的人听。
+我做给创作者用的 AI 小工具 —— Agent Skills、macOS app，还有一些能省下一下午的小脚本，然后把它们讲给各平台上大约 12 万关注我的人听。
 
 这里放出来的东西基本都是先拿去干活、再整理成仓库的。如果某个仓库里写了一个坑，那是因为我自己先掉进去过。
 
