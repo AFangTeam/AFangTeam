@@ -8,7 +8,7 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 | | |
 |---|---|
-| [**claude-skills**](https://github.com/AFangTeam/claude-skills) | Agent Skills for [Claude Code](https://claude.com/claude-code). First one hands a ChatCut timeline off to Final Cut Pro frame-exact, keyframed zooms and captions intact. |
+| [**agent-skills**](https://github.com/AFangTeam/agent-skills) | Portable Agent Skills — one folder, works in Claude Code or Codex. First one hands a ChatCut timeline off to Final Cut Pro frame-exact, keyframed zooms and captions intact. |
 
 **Find me**
 
@@ -31,4 +31,4 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 | | |
 |---|---|
-| [**claude-skills**](https://github.com/AFangTeam/claude-skills) | 给 [Claude Code](https://claude.com/claude-code) 用的 Agent Skills。第一个是把 ChatCut 时间线帧级精确地交接给 Final Cut Pro，关键帧推镜和字幕都不丢。 |
+| [**agent-skills**](https://github.com/AFangTeam/agent-skills) | 可移植的 Agent Skills —— 同一个文件夹，Claude Code 和 Codex 都能用。第一个是把 ChatCut 时间线帧级精确地交接给 Final Cut Pro，关键帧推镜和字幕都不丢。 |
