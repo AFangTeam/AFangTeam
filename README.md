@@ -33,6 +33,6 @@ Most of what I publish here came out of doing the actual job first. If a repo do
 
 | | |
 |---|---|
-| [**PrintLab**](https://github.com/AFangTeam/PrintLab) | **把想法接着做成一件东西。** Mac / Windows 上的 3D 打印工作台，与 Codex 一起整理设计、CAD、切片、材料和打印记录。机型支持与验证边界见项目说明。 <br>中文演示：[▶ B 站](https://www.bilibili.com/video/BV1r1W26hEHg/) · [▶ YouTube](https://www.youtube.com/watch?v=q7G8J5Tz0aQ) |
+| [**PrintLab**](https://github.com/AFangTeam/PrintLab) | **把想法接着做成一件东西。** Mac / Windows 上的 3D 打印工作台，与 Codex 一起整理设计、CAD、切片、材料和打印记录。机型支持与验证边界见项目说明。 <br>中文演示：[▶ YouTube](https://www.youtube.com/watch?v=q7G8J5Tz0aQ) · [▶ B 站](https://www.bilibili.com/video/BV1r1W26hEHg/) |
 | [**chatcut-to-fcpxml**](https://github.com/AFangTeam/chatcut-to-fcpxml) | **ChatCut → Final Cut Pro。** 把 ChatCut 时间线帧级精确地交接给 Final Cut Pro，关键帧推镜和 iTT 字幕都不丢。Claude Code 和 Codex 都能用的 Agent Skill。 <br>[▶ 演示视频](https://www.bilibili.com/video/BV17M8P6EEgD/) |
 | [**Doubletake**](https://github.com/AFangTeam/Doubletake) | **两台相机，同一个东西，并排比。** macOS app：把两次拍摄铺在同一条 EXIF 时间轴上，配对出真正对应的两张，同步放大着看，再一键导出成能直接放进 4K 视频的对比图。 |
